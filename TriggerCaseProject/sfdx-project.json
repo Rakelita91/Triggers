@@ -1,0 +1,20 @@
+{
+  "packageDirectories": [
+    {
+      "versionName": "Version 1.0",
+      "versionNumber": "1.0.0.NEXT",
+      "path": "force-app",
+      "default": true,
+      "package": "triggerCase",
+      "versionDescription": "Trigger For Create a Task in Cases under a condition"
+    }
+  ],
+  "name": "TriggerCaseProject",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "59.0",
+  "packageAliases": {
+    "triggerCase": "0Hoak0000000DoTCAU",
+    "triggerCase@1.0.0-1": "04tak0000002tA5AAI"
+  }
+}
